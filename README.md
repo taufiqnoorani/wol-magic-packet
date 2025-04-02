@@ -1,4 +1,4 @@
-# Wake-on-LAN (WoL) C Program
+# Wake-on-LAN (WoL)
 
 ## Overview
 This C program allows you to remotely power on a PC over the internet using the Wake-on-LAN (WoL) protocol. It sends a "magic packet" to a target machine's MAC address via UDP broadcast, instructing the machine to wake up from sleep or powered-off state (if WoL is enabled in BIOS/UEFI settings).
